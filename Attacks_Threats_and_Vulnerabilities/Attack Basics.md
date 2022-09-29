@@ -17,3 +17,23 @@ A **virus** is a program or piece of code that runs on a computer, often without
 - They often make copies of themselves and spread through networks when an infected file executes or launches
 
 ### Virus Classifications
+
+- **Resident virus**
+  - Lives in memory
+  - Loaded each time the system is started and can infect other areas
+  - Need to be called up from some kind of storage
+
+- **Nonresident Virus**
+  - Need to first be executed
+  - Looks for targets locally and across the network and then infects and exits
+  - Does not remain active
+
+- **Boot sector virus**
+  - These are stored in the first sector of the hard drive so that as soon as the computer boots, the virus loads into memory
+  - Virus is loaded before the OS starts
+  - Where more common back in the day of floppy disks
+
+- **Macro virus**
+  - This one is inserted into a Microsoft Office document and emailed to unsuspecting users
+  - Uses macros and executes when the document opens
+

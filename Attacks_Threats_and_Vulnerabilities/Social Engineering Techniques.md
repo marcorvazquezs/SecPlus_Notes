@@ -36,3 +36,18 @@
 
 **Watering Hole Attacks**
 - Like spear phishing but instead of using email, the attacker attacks a site that the target often visits.
+- By compromising the site, the attacker can the try to do things like execute scripts on the victim's browser
+
+**Typo Squatting**
+- Also called URL hijacking
+- A simple method that relies on typing mistakes made by users
+- A misspelled URL might take you to a site that looks just like the legitimate one. If you try to login, the attacker gets your credentials.
+
+**Principles of Influence**
+- These are principles that social engineers use to attempt to influence and manipulate people
+  - Authority
+  - Intimidation
+  - Consensus/social proof
+  - Security and urgency
+  - Familiarity/liking
+  - Trust

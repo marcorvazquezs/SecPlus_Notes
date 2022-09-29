@@ -6,7 +6,7 @@ Notes for Security+ Exam
 # Part I: Attacks, Threats and Vulnerabilities
 
 - [Social Engineering Techniques](Attacks_Threats_and_Vulnerabilities/Social%20Engineering%20Techniques.md)
-- Attack Basics
+- [Attack Basics](Attacks_Threats_and_Vulnerabilities/Attack%20Basics.md)
 - Application Attacks
 - Network Attacks
 - Threat Actors, Vectors, and Intelligence Sources

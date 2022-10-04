@@ -172,6 +172,7 @@
     - Weird spikes in requests coming in a short period of time, many from the same IP address or range of addresses
 
     ![DDoS Attack](screenshots/2022-10-04-15-20-54.png)
+    
     Source ExamCram
 
 ## Malicious Code and Script Execution

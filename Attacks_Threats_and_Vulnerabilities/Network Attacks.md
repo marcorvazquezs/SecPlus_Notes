@@ -9,7 +9,7 @@
   - [Layer 2 Attacks](#layer-2-attacks)
   - [Domain Name System (DNS) Attacks](#domain-name-system-dns-attacks)
   - [Denial of Service](#denial-of-service)
-  - [Malicious Code and Scrip Execution](#malicious-code-and-scrip-execution)
+  - [Malicious Code and Script Execution](#malicious-code-and-script-execution)
 
 ## Wireless
 
@@ -176,7 +176,7 @@
     ![DDoS Attack](screenshots/2022-10-04-15-20-54.png)
     Source ExamCram
 
-## Malicious Code and Scrip Execution
+## Malicious Code and Script Execution
 
 - Takes advantage of the power to create macro viruses
 - Attackers can take advantage of this to run malicious commands

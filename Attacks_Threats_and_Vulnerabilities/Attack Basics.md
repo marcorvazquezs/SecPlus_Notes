@@ -1,5 +1,29 @@
 # Attack Basics
 
+## Topics
+
+- [Attack Basics](#attack-basics)
+  - [Topics](#topics)
+  - [Malware](#malware)
+  - [Viruses](#viruses)
+    - [Virus Classifications](#virus-classifications)
+    - [Virus Characteristics](#virus-characteristics)
+  - [Worms](#worms)
+  - [Trojans](#trojans)
+  - [Rootkits](#rootkits)
+  - [Logic Bombs](#logic-bombs)
+  - [Bots](#bots)
+  - [Crypto-Malware](#crypto-malware)
+  - [Potentially Unwanted Programs (PUPs)](#potentially-unwanted-programs-pups)
+  - [Spyware](#spyware)
+  - [Adware](#adware)
+  - [Cryptomining Software](#cryptomining-software)
+  - [Physical Attacks](#physical-attacks)
+  - [Adversarial Artificial Intelligence (AI)](#adversarial-artificial-intelligence-ai)
+  - [Password Attacks](#password-attacks)
+  - [Birthday Attacks](#birthday-attacks)
+  - [Downgrade Attacks](#downgrade-attacks)
+
 ## Malware
 
 - Software designed to harm a user's computer or data.

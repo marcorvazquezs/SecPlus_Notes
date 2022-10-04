@@ -2,12 +2,11 @@
 
 Notes for Security+ Exam
 
-
 # Part I: Attacks, Threats and Vulnerabilities
 
 - [Social Engineering Techniques](Attacks_Threats_and_Vulnerabilities/Social%20Engineering%20Techniques.md)
 - [Attack Basics](Attacks_Threats_and_Vulnerabilities/Attack%20Basics.md)
-- Application Attacks
+- [Application Attacks](Attacks_Threats_and_Vulnerabilities/Application%20Attacks.md)
 - Network Attacks
 - Threat Actors, Vectors, and Intelligence Sources
 - Vulnerabilities
@@ -52,3 +51,5 @@ Notes for Security+ Exam
 - Organization Security Policies
 - Risk Management
 - Sensitive Data and Privacy
+
+### This outline structure is taken from the Security+ Exam Cram book but notes have been condensed and are not a direct copy.

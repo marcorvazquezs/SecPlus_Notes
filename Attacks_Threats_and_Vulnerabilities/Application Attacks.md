@@ -1,8 +1,6 @@
 # Application Attacks
 
 ## Topics
-- [Application Attacks](#application-attacks)
-  - [Topics](#topics)
   - [Race Conditions](#race-conditions)
   - [Improper Software Handling](#improper-software-handling)
   - [Resource Exhaustion](#resource-exhaustion)

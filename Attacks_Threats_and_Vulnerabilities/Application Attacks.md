@@ -1,6 +1,7 @@
 # Application Attacks
 
 ## Topics
+
   - [Race Conditions](#race-conditions)
   - [Improper Software Handling](#improper-software-handling)
   - [Resource Exhaustion](#resource-exhaustion)

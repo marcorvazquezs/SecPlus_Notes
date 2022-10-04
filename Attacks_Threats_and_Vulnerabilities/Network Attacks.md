@@ -2,8 +2,6 @@
 
 ## Topics
 
-- [Network Attacks](#network-attacks)
-  - [Topics](#topics)
   - [Wireless](#wireless)
   - [Short-Range Wireless Communications](#short-range-wireless-communications)
   - [Layer 2 Attacks](#layer-2-attacks)

@@ -1,4 +1,4 @@
-# SecPlus_Notes
+# Security+ Study Notes
 
 Notes for Security+ Exam
 

@@ -2,8 +2,6 @@
 
 ## Topics
 
-- [Attack Basics](#attack-basics)
-  - [Topics](#topics)
   - [Malware](#malware)
   - [Viruses](#viruses)
     - [Virus Classifications](#virus-classifications)

@@ -9,7 +9,7 @@ Notes for Security+ Exam
 - [Application Attacks](Attacks_Threats_and_Vulnerabilities/Application%20Attacks.md)
 - [Network Attacks](Attacks_Threats_and_Vulnerabilities/Network%20Attacks.md)
 - [Threat Actors, Vectors, and Intelligence Sources](Attacks_Threats_and_Vulnerabilities/Threat%20Actors_Vectors_and_Intelligence%20Sources.md)
-- Vulnerabilities
+- [Vulnerabilities](Attacks_Threats_and_Vulnerabilities/Vulnerabilities.md)
 - Security Assessment Techniques
 - Penetration Testing Techniques
 

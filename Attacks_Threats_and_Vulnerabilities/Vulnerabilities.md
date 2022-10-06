@@ -2,8 +2,6 @@
 
 ## Topics
 
-- [Vulnerabilities](#vulnerabilities)
-  - [Topics](#topics)
   - [Cloud-Based vs On-Premises](#cloud-based-vs-on-premises)
   - [Zero-Day](#zero-day)
   - [Weak Configurations](#weak-configurations)

@@ -2,7 +2,7 @@
 
 ## Topics
 
-
+  - [Vulnerability Scans](#vulnerability-scans)
 
 ## Vulnerability Scans
 

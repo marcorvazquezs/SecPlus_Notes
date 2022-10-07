@@ -10,7 +10,7 @@ Notes for Security+ Exam
 - [Network Attacks](Attacks_Threats_and_Vulnerabilities/Network%20Attacks.md)
 - [Threat Actors, Vectors, and Intelligence Sources](Attacks_Threats_and_Vulnerabilities/Threat%20Actors_Vectors_and_Intelligence%20Sources.md)
 - [Vulnerabilities](Attacks_Threats_and_Vulnerabilities/Vulnerabilities.md)
-- Security Assessment Techniques
+- [Security Assessment Techniques](Attacks_Threats_and_Vulnerabilities/Security%20Assessment%20Techniques.md)
 - Penetration Testing Techniques
 
 # Part II: Architecture and Design

@@ -16,7 +16,7 @@ Notes for Security+ Exam
 # Part II: Architecture and Design
 
 - [Enterprise Security Concepts](Architecture_and_Design/Enterprise%20Security%20Concepts.md)
-- Virtualization and Cloud Computing
+- [Virtualization and Cloud Computing](Architecture_and_Design/Virtualization%20and%20Cloud%20Computing.md)
 - Secure Application Development, Deployment and Automation
 - Authentication and Authorization Design
 - Cybersecurity Resilience

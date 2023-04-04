@@ -17,12 +17,12 @@ Notes for Security+ Exam
 
 - [Enterprise Security Concepts](Architecture_and_Design/Enterprise%20Security%20Concepts.md)
 - [Virtualization and Cloud Computing](Architecture_and_Design/Virtualization%20and%20Cloud%20Computing.md)
-- Secure Application Development, Deployment and Automation
-- Authentication and Authorization Design
-- Cybersecurity Resilience
-- Embedded and Specialized Systems
-- Physical Security Controls
-- Cryptographic Concepts
+- [Secure Application Development, Deployment and Automation](Architecture_and_Design/Secure%20Application%20Development%20Deploynment%20and%20Automation.md)
+- [Authentication and Authorization Design](Architecture_and_Design/Authentication%20and%20Authorization%20Design.md)
+- [Cybersecurity Resilience](Architecture_and_Design/Cybersecurity%20Resilience.md)
+- [Embedded and Specialized Systems](Architecture_and_Design/Embedded%20and%20Specialized%20Systems.md)
+- [Physical Security Controls](Architecture_and_Design/Physical%20Security%20Controls.md)
+- [Cryptographic Concepts](Architecture_and_Design/Cryptographic%20Concepts.md)
 
 # Part III: Implementation
 

@@ -1,26 +1,28 @@
+<!-- omit in toc -->
 # Attack Basics
 
+<!-- omit in toc -->
 ## Topics
 
-  - [Malware](#malware)
-  - [Viruses](#viruses)
-    - [Virus Classifications](#virus-classifications)
-    - [Virus Characteristics](#virus-characteristics)
-  - [Worms](#worms)
-  - [Trojans](#trojans)
-  - [Rootkits](#rootkits)
-  - [Logic Bombs](#logic-bombs)
-  - [Bots](#bots)
-  - [Crypto-Malware](#crypto-malware)
-  - [Potentially Unwanted Programs (PUPs)](#potentially-unwanted-programs-pups)
-  - [Spyware](#spyware)
-  - [Adware](#adware)
-  - [Cryptomining Software](#cryptomining-software)
-  - [Physical Attacks](#physical-attacks)
-  - [Adversarial Artificial Intelligence (AI)](#adversarial-artificial-intelligence-ai)
-  - [Password Attacks](#password-attacks)
-  - [Birthday Attacks](#birthday-attacks)
-  - [Downgrade Attacks](#downgrade-attacks)
+- [Malware](#malware)
+- [Viruses](#viruses)
+  - [Virus Classifications](#virus-classifications)
+  - [Virus Characteristics](#virus-characteristics)
+- [Worms](#worms)
+- [Trojans](#trojans)
+- [Rootkits](#rootkits)
+- [Logic Bombs](#logic-bombs)
+- [Bots](#bots)
+- [Crypto-Malware](#crypto-malware)
+- [Potentially Unwanted Programs (PUPs)](#potentially-unwanted-programs-pups)
+- [Spyware](#spyware)
+- [Adware](#adware)
+- [Cryptomining Software](#cryptomining-software)
+- [Physical Attacks](#physical-attacks)
+- [Adversarial Artificial Intelligence (AI)](#adversarial-artificial-intelligence-ai)
+- [Password Attacks](#password-attacks)
+- [Birthday Attacks](#birthday-attacks)
+- [Downgrade Attacks](#downgrade-attacks)
 
 ## Malware
 
@@ -217,4 +219,3 @@ A **virus** is a program or piece of code that runs on a computer, often without
 - Often a result of security configurations not being updated
 - An attacker can force the use of an older and less secure version of a protocol
 - This downgrade of protocol versions make cryptographic attacks easier
-

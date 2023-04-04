@@ -1,13 +1,15 @@
+<!-- omit in toc -->
 # Network Attacks
 
+<!-- omit in toc -->
 ## Topics
 
-  - [Wireless](#wireless)
-  - [Short-Range Wireless Communications](#short-range-wireless-communications)
-  - [Layer 2 Attacks](#layer-2-attacks)
-  - [Domain Name System (DNS) Attacks](#domain-name-system-dns-attacks)
-  - [Denial of Service](#denial-of-service)
-  - [Malicious Code and Script Execution](#malicious-code-and-script-execution)
+- [Wireless](#wireless)
+- [Short-Range Wireless Communications](#short-range-wireless-communications)
+- [Layer 2 Attacks](#layer-2-attacks)
+- [Domain Name System (DNS) Attacks](#domain-name-system-dns-attacks)
+- [Denial of Service](#denial-of-service)
+- [Malicious Code and Script Execution](#malicious-code-and-script-execution)
 
 ## Wireless
 
@@ -172,7 +174,6 @@
     - Weird spikes in requests coming in a short period of time, many from the same IP address or range of addresses
 
     ![DDoS Attack](screenshots/2022-10-04-15-20-54.png)
-    
     Source ExamCram
 
 ## Malicious Code and Script Execution

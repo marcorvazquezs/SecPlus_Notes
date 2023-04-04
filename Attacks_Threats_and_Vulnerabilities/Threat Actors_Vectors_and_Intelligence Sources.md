@@ -1,10 +1,12 @@
+<!-- omit in toc -->
 # Threat Actors, Vectors, and Intelligence Sources
 
+<!-- omit in toc -->
 ## Topics
 
-  - [Threat Actors](#threat-actors)
-  - [Vectors](#vectors)
-  - [Threat Intelligence and Research Sources](#threat-intelligence-and-research-sources)
+- [Threat Actors](#threat-actors)
+- [Vectors](#vectors)
+- [Threat Intelligence and Research Sources](#threat-intelligence-and-research-sources)
 
 
 ## Threat Actors

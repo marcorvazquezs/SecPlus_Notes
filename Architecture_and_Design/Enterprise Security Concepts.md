@@ -1,17 +1,19 @@
+<!-- omit in toc -->
 # Enterprise Security Concepts
 
+<!-- omit in toc -->
 ## Topics
 
-  - [Configuration Management](#configuration-management)
-  - [Data Confidentiality](#data-confidentiality)
-    - [Data Loss Prevention](#data-loss-prevention)
-    - [Cloud Access Security Brokers](#cloud-access-security-brokers)
-    - [Encryption and Data Obfuscation](#encryption-and-data-obfuscation)
-    - [Rights Management](#rights-management)
-    - [Hardware Security Module (HSM)](#hardware-security-module-hsm)
-    - [Encrypted Traffic Management](#encrypted-traffic-management)
-  - [Data Integrity](#data-integrity)
-  - [Data Availability](#data-availability)
+- [Configuration Management](#configuration-management)
+- [Data Confidentiality](#data-confidentiality)
+  - [Data Loss Prevention](#data-loss-prevention)
+  - [Cloud Access Security Brokers](#cloud-access-security-brokers)
+  - [Encryption and Data Obfuscation](#encryption-and-data-obfuscation)
+  - [Rights Management](#rights-management)
+  - [Hardware Security Module (HSM)](#hardware-security-module-hsm)
+  - [Encrypted Traffic Management](#encrypted-traffic-management)
+- [Data Integrity](#data-integrity)
+- [Data Availability](#data-availability)
 
 ## Configuration Management
 

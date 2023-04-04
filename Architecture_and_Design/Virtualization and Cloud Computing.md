@@ -1,19 +1,17 @@
+<!-- omit in toc -->
 # Virtualization and Cloud Computing
 
+<!-- omit in toc -->
 ## Topics
 
-- [Virtualization and Cloud Computing](#virtualization-and-cloud-computing)
-  - [Topics](#topics)
-  - [Virtualization](#virtualization)
-    - [Containers and Microservices](#containers-and-microservices)
-    - [Virtual Desktop Infrastructure (DVR)](#virtual-desktop-infrastructure-dvr)
-    - [Virtual Machine (VM) Sprawl Avoidance](#virtual-machine-vm-sprawl-avoidance)
-    - [VM Escape Protection](#vm-escape-protection)
-    - [Software-Defined Networking (SDN)](#software-defined-networking-sdn)
-    - [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
-    - [Cloud Models](#cloud-models)
-
-
+- [Virtualization](#virtualization)
+  - [Containers and Microservices](#containers-and-microservices)
+  - [Virtual Desktop Infrastructure (DVR)](#virtual-desktop-infrastructure-dvr)
+  - [Virtual Machine (VM) Sprawl Avoidance](#virtual-machine-vm-sprawl-avoidance)
+  - [VM Escape Protection](#vm-escape-protection)
+  - [Software-Defined Networking (SDN)](#software-defined-networking-sdn)
+  - [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)
+  - [Cloud Models](#cloud-models)
 
 ## Virtualization
 

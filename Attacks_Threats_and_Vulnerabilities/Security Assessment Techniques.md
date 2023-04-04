@@ -1,13 +1,16 @@
+<!-- omit in toc -->
 # Security Assessment Techniques
 
+<!-- omit in toc -->
 ## Topics
 
-  - [Vulnerability Scans](#vulnerability-scans)
-  - [Intrusive vs. Non-Intrusive](#intrusive-vs-non-intrusive)
-  - [Credentialed vs. Non-Credentialed](#credentialed-vs-non-credentialed)
-  - [Threat Assessment](#threat-assessment)
-    - [SIEM](#security-information-and-event-management-siem)
-  - 
+- [Vulnerability Scans](#vulnerability-scans)
+- [Intrusive vs. Non-Intrusive](#intrusive-vs-non-intrusive)
+- [Credentialed vs. Non-Credentialed](#credentialed-vs-non-credentialed)
+- [Threat Assessment](#threat-assessment)
+  - [Security Information and Event Management (SIEM)](#security-information-and-event-management-siem)
+- [Threat Hunting](#threat-hunting)
+- [Security Orchestration, Automation, and Response (SOAR)](#security-orchestration-automation-and-response-soar)
 
 ## Vulnerability Scans
 

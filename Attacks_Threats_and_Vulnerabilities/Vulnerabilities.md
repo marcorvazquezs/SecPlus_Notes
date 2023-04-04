@@ -1,13 +1,15 @@
+<!-- omit in toc -->
 # Vulnerabilities
 
+<!-- omit in toc -->
 ## Topics
 
-  - [Cloud-Based vs On-Premises](#cloud-based-vs-on-premises)
-  - [Zero-Day](#zero-day)
-  - [Weak Configurations](#weak-configurations)
-  - [Improper or Weak Patch Management](#improper-or-weak-patch-management)
-  - [Third-Party Risks](#third-party-risks)
-  - [Impacts](#impacts)
+- [Cloud-Based vs On-Premises](#cloud-based-vs-on-premises)
+- [Zero-Day](#zero-day)
+- [Weak Configurations](#weak-configurations)
+- [Improper or Weak Patch Management](#improper-or-weak-patch-management)
+- [Third-Party Risks](#third-party-risks)
+- [Impacts](#impacts)
 
 ## Cloud-Based vs On-Premises
 

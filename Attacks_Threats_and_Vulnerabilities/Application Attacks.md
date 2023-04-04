@@ -1,19 +1,20 @@
+<!-- omit in toc -->
 # Application Attacks
 
+<!-- omit in toc -->
 ## Topics
 
-  - [Race Conditions](#race-conditions)
-  - [Improper Software Handling](#improper-software-handling)
-  - [Resource Exhaustion](#resource-exhaustion)
-  - [Overflows](#overflows)
-  - [Code Injections](#code-injections)
-  - [Driver Manipulation](#driver-manipulation)
-  - [Request Forgeries](#request-forgeries)
-  - [Directory Traversal](#directory-traversal)
-  - [Replay Attack](#replay-attack)
-  - [Application Programming Interface (API) Attacks](#application-programming-interface-api-attacks)
-  - [Pass the Hash attack](#pass-the-hash-attack)
-
+- [Race Conditions](#race-conditions)
+- [Improper Software Handling](#improper-software-handling)
+- [Resource Exhaustion](#resource-exhaustion)
+- [Overflows](#overflows)
+- [Code Injections](#code-injections)
+- [Driver Manipulation](#driver-manipulation)
+- [Request Forgeries](#request-forgeries)
+- [Directory Traversal](#directory-traversal)
+- [Replay Attack](#replay-attack)
+- [Application Programming Interface (API) Attacks](#application-programming-interface-api-attacks)
+- [Pass the Hash attack](#pass-the-hash-attack)
 
 ## Race Conditions
 

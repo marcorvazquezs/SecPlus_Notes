@@ -1,12 +1,12 @@
+<!-- omit in toc -->
 # Penetration Testing Techniques
 
+<!-- omit in toc -->
 ## Topics
 
-- [Penetration Testing Techniques](#penetration-testing-techniques)
-  - [Topics](#topics)
-  - [Testing Methodology](#testing-methodology)
-    - [Pentesting Phases](#pentesting-phases)
-  - [Team Exercises](#team-exercises)
+- [Testing Methodology](#testing-methodology)
+  - [Pentesting Phases](#pentesting-phases)
+- [Team Exercises](#team-exercises)
 
 ## Testing Methodology
 

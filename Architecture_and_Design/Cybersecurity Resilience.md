@@ -64,7 +64,7 @@
     - Disks are mirrored in pairs for redundancy and better performance
     - Data is also striped across multiple disks
 
-![RAID Arrays](screenshots/2023-04-04-15-43-23.png)
+   ![RAID Arrays](screenshots/2023-04-04-15-43-23.png)
 
 ## Backups
 

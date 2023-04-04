@@ -52,4 +52,4 @@ Notes for Security+ Exam
 - Risk Management
 - Sensitive Data and Privacy
 
-### This outline structure is taken from the Security+ Exam Cram book but notes have been condensed and are not a direct copy.
+### This outline structure is taken from the Security+ Exam Cram book but notes have been condensed and are not a direct copy

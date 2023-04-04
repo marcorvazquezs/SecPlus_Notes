@@ -27,12 +27,17 @@
 
 ## Multifactor Authentication
 
+- A type of authentication that requires more than just a password for account access.
+- Multifactor authentication involves two or more of the types of authentication.
 - Several common factors are used for authentication:
   - something you have
   - something you are
   - something you do
   - somewhere you are
 - MFA provides additional security because account access requires more than a password
+- Example: ATM Machine
+  - Something you have - your debit card
+  - Something you know - PIN number
 
 ## Federation
 
@@ -46,3 +51,30 @@
 **Tokens**
 
 - One of the best methods of "something you have" authentication involves using a token. Can be either a physical device or a one-time password
+
+- **Time-based one-time password (TOTP)**: algorithm computes a one-time password from a shared secret key and the current time
+- **HMAC-based one-time password (HOTP)**: algorithm that uses a shared secret and a moving factor or counter, unlike TOTP passwords, these can be valid for an unknown amount of time.
+
+**Common Token and Similar Authentication Technologies**
+
+| Method | Description |
+|--------|-------------|
+|Time-based one-time password|A one-time-use code from a hardware device or software app that provides a new code, every 30 or 60 seconds|
+|HMAC-based one-time password|A one-time-use code from a hardware device of software app that provides a new code after each use|
+|SMS generate one-time password|A one-time-use code sent via SMS|
+|Token key|A token device that typically plugs in to a USB port|
+|Static Codes|An issued set of one-time-use codes. Sometimes implemented on a static card, which uses a set of axes for cross-reference|
+|Phone callback|A phone number that makes you press a number to provide a one-time code|
+
+**Common Biometric Measures for Authentication**
+
+| Method | Description | Issues |
+|--------|-------------|--------|
+|Fingerprint| Scans and identifies fingerprints | False rejection results are common. Patterns can easily be counterfeited so it is best to pair with at least on other measure. |
+| Hand Geometry | Measures the length and width of a hand's profile | False rejection results are common. |
+| Voiceprint | Measures the tone and pacing patterns of a spoken phrase or passage | Voices can be distorted and create false rejection results |
+| Facial Recognition | Identifies and measures facial characteristics and patterns | False rejection results are common |
+| Retina | Scans and identifies blood and tissue patterns at the back of the eye | False rejection results are common |
+| Veins/Blood vessels | Identifies and measures patterns of blood vessels in the hand or face | False rejection results are common because of measurement inaccuracies |
+| Signature | Records and measures the speed, shape of a signature | False rejection results |
+| Gait | Records and measures patterns of weight shift and leg movement while walking | False rejection results |

@@ -37,6 +37,7 @@
 ## Viruses
 
 A **virus** is a program or piece of code that runs on a computer, often without the user being aware of it or the user's permission
+
 - Designed to attach themselves to other code and replicate.
 - They often make copies of themselves and spread through networks when an infected file executes or launches
 
@@ -83,8 +84,9 @@ A **virus** is a program or piece of code that runs on a computer, often without
   - They can remove itself and copy itself to a different location
 
 **Multipartite Virus**
-  - Infects executable files and also attacks the master boot record of the system
-  - If the boot sector and the infected files are not cleaned, the files can easily be infected again
+
+- Infects executable files and also attacks the master boot record of the system
+- If the boot sector and the infected files are not cleaned, the files can easily be infected again
 
 ## Worms
 

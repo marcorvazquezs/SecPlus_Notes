@@ -147,4 +147,3 @@
 - Ensures adequate response and recovery for organizations in case of breaches and disasters
 - Examples:
   - Regular backups of key information
-  - 

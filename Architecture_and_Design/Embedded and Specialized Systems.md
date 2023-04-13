@@ -7,6 +7,7 @@
 - [Embedded systems](#embedded-systems)
 - [SoC and RTOS](#soc-and-rtos)
 - [Real-time operating system (RTOS)](#real-time-operating-system-rtos)
+- [SCADA and ICS](#scada-and-ics)
 
 ## Embedded systems
 
@@ -28,3 +29,9 @@
   - Interprocess communication (IPC) attacks
   - Code injection
   - DoS attacks
+
+## SCADA and ICS
+
+- **Supervisory Control and Data Acquisition (SCADA)** - A subset of systems considered to be critical infrastructure systems
+- **Industrial Control Systems (ICS)** - A system that is considered to be critical to the infrastructure, such as manufacturing, logistics and transportation networks, energy and utilities, agriculture and food production networks.
+- A key control against attacks on SCADA systems is to implement physical segregation of internal and external network to reduce the attack surface

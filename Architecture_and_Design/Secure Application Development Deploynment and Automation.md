@@ -15,4 +15,3 @@
 
 - Organizations implement physical isolation or VLAN segmentation between the different environments
 - This environments tends to be less restrictive
-- 
